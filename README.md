@@ -17,4 +17,6 @@ After importing the data into excel, I performed some exploratory analysis using
 - 3 products to promote to increase profit
 - Weekday and Month with best sales
 - Region with most patronage
-- Most popular and Least popular product
+- Most popular and Least popular product.
+
+https://public.tableau.com/views/SupermarketSalesAnalysisDashboard_16644819543750/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link. 
